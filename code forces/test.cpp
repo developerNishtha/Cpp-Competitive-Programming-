@@ -3,16 +3,17 @@
 #define ll long long
 using namespace std;
 
-void nishtha(){
-
+void nishtha()
+{
 }
 
 int main()
 {
 	int t;
 	cin >> t;
-	while (t--){
+	while (t--)
+	{
 		nishtha();
 	}
-	return 0;	
+	return 0;
 }
